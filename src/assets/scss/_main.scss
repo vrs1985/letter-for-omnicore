@@ -1,0 +1,101 @@
+a > img, .payment{
+   display: inline;
+}
+
+th.mainPic{
+    padding: 130px 100px;
+    height: 139px;
+}
+a.a-button{
+    font-size: 20px;
+    color: #FFF !important;
+    border: 2px solid #FFF;
+    padding: 20px 100px;
+    &:hover, :visited{
+        color: #FFF;
+    }
+}
+div.left{
+    padding-left: 15px;
+}
+th.menu{
+    padding-left: 0;
+}
+th.first-row{
+    padding-top: 22px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #ccc;
+}
+th.second-row{
+padding-top: 24px;
+padding-bottom: 5px;
+}
+th.third-row{
+height: 313px;
+padding: 22px 22px 42px;
+border-bottom: 2px solid #ccc;
+}
+th.fourth-row{
+padding-top:  54px;
+padding-bottom: 30px;
+}
+th.fifth-row{
+padding-top:  35px;
+}
+th.sixth-row{
+    padding-top: 20px;
+}
+.bg-gray{
+    background: #f2f2f2;
+}
+th.follow{
+    padding-top: 16px;
+    padding-bottom: 0px;
+}
+.dot{
+    display: inline;
+    position: absolute;
+    top: 33px;
+    left: 17px;
+    width: 11px;
+    height: 11px;
+    -webkit-border-radius: 3px;
+     border-radius: 3px ;
+    background-color: #ff0000;
+    opacity: 0.8;
+}
+.thank{
+    padding-left: 0;
+    font-weight: 600;
+}
+p.under-thank{
+    font-size: 14px ;
+    margin: 0px !important;
+}
+
+th.fourth{
+    border-right: 1px solid #ccc;
+    padding-bottom: 0;
+}
+p.under-fourth{
+    font-size: 12px;
+    padding-top: 5px ;
+    margin: 0;
+}
+p.copy{
+    font-size: 12px;
+}
+.paypal{
+    height: 22px;
+}
+.master{
+    margin-top: -3px;
+}
+th.down_menu{
+padding-top: 12px;
+}
+a.down_menu_a{
+    font-size: 11px;
+    color: #000;
+    text-decoration: underline;
+}
